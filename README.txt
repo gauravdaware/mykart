@@ -1,0 +1,1 @@
+Import the database file "mykart.sql" in the phpmyadmin to create the database
